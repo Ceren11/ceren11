@@ -2,6 +2,8 @@
 *.db
 Debug
 Debug/*
+AppointmentBook/Debug
+AppointmentBook/Debug/*
 Release
 Release/*
 ipch
