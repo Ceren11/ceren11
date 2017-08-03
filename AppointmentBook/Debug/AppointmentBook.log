@@ -1,8 +1,0 @@
-﻿  AppointmentBookApp.cpp
-c:\users\ceren\desktop\staj-1\appointmentbook\appointmentbook\appointmentbookapp.cpp(26): warning C4018: '<': signed/unsigned mismatch
-c:\users\ceren\desktop\staj-1\appointmentbook\appointmentbook\appointmentbookapp.cpp(28): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
-c:\users\ceren\desktop\staj-1\appointmentbook\appointmentbook\appointmentbookapp.cpp(111): warning C4018: '<': signed/unsigned mismatch
-  Appointment.cpp
-  Generating Code...
-  AppointmentBook.vcxproj -> C:\Users\ceren\Desktop\STAJ-1\AppointmentBook\Debug\AppointmentBook.exe
-  AppointmentBook.vcxproj -> C:\Users\ceren\Desktop\STAJ-1\AppointmentBook\Debug\AppointmentBook.pdb (Full PDB)
