@@ -4,6 +4,8 @@ Debug
 Debug/*
 AppointmentBook/Debug
 AppointmentBook/Debug/*
+*.vcxproj
+*.vcxproj.filters
 Release
 Release/*
 ipch
