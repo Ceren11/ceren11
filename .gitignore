@@ -1,0 +1,14 @@
+*.sln
+*.db
+Debug
+Debug/*
+Release
+Release/*
+ipch
+ipch/*
+.vs
+.vs/*
+# Executables
+*.exe
+*.out
+*.app
